@@ -63,5 +63,3 @@ Cela garantit que :
 
 ---
 
-👉 Si tu as un problème similaire sur une autre page, applique la même logique !  
-Bonne suite de projet 🚀
